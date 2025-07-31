@@ -1,8 +1,8 @@
 ## AIDDbot
 
-Hi this Ab, the AIDDbot organization at GitHub
+Hi this _Ab_ pronounced "/eibi:/", the AIDDbot organization at GitHub
 
-![AIDDbot]([AIDD-bot.jpg](https://github.com/AIDDbot/.github/blob/main/AIDD-bot.jpg))
+![AIDDbot](https://github.com/AIDDbot/.github/blob/main/AIDD-bot.jpg)
 
 Here you can find AIDD propmts, rules, intructions and Archetypes to code smarter notharder with AI.
 
