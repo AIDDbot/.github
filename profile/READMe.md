@@ -15,5 +15,5 @@ Hi this _Ab_ pronounced "/eibi:/", the AIDDbot organization at GitHub
   - [X](https://x.com/albertobasalo)
   - [LinkedIn](https://www.linkedin.com/in/albertobasalo/)
   - [GitHub](https://github.com/albertobasalo)
-- **Profesor en Español**: [AI code Academy](https://aicode.academy)
-- **This Repository**: [AIDDbot](https://github.com/AIDDbot/AIDDbot)
+- **Cursos en Español**: [AI code Academy](https://aicode.academy)
+- **The main Repository for AIDDBot**: [AIDDbot](https://github.com/AIDDbot/AIDDbot)
