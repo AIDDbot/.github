@@ -1,6 +1,6 @@
 # AIDDbot
 
-Hi this `AIDDbot` organization at GitHub.
+Hi, this `AIDDbot` organization at GitHub.
 ## 🚀 Go to [the AIDDbot Repo](https://github.com/AIDDbot/AIDDbot)
 
 ![AIDDbot](https://github.com/AIDDbot/.github/blob/main/AIDD-bot.jpg)
