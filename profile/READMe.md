@@ -1,11 +1,12 @@
 # AIDDbot
 
-Hi this _Ab_ pronounced "/eibi:/", the AIDDbot organization at GitHub
+Hi this `AIDDbot` organization at GitHub.
+## 🚀 Go to [the AIDDbot Repo](https://github.com/AIDDbot/AIDDbot)
 
 ![AIDDbot](https://github.com/AIDDbot/.github/blob/main/AIDD-bot.jpg)
 
-## Here you can find AIDD propmts, rules, intructions and archetypes... 
-> To code smarter not harder with AI.
+## Agents and archetypes to help you with AI-Driven Development
+> _Code smarter, not harder with AI._
 
 ---
 
