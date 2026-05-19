@@ -2,6 +2,7 @@
 
 Hi, this `AIDDbot` organization at GitHub.
 ## 🚀 Go to [the AIDDbot Repo](https://github.com/AIDDbot/AIDDbot)
+Or visit the [AIDDbot.com](https://aiddbot.com) site.
 
 ![AIDDbot](https://github.com/AIDDbot/.github/blob/main/AIDD-bot.jpg)
 
@@ -16,5 +17,5 @@ Hi, this `AIDDbot` organization at GitHub.
   - [LinkedIn](https://www.linkedin.com/in/albertobasalo/)
   - [GitHub](https://github.com/albertobasalo)
 - **Cursos en Español**: [AI code Academy](https://aicode.academy)
-- **AIDDbot.com Blog**: [AIDDbot.com](https://aiddbot.com)
+- **AIDDbot.com**: [AIDDbot.com](https://aiddbot.com)
 - **The main Repository for AIDDBot**: [AIDDbot](https://github.com/AIDDbot/AIDDbot)
